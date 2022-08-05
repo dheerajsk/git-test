@@ -1,4 +1,4 @@
-console.log("Test");
+console.log("Test 2");
 
 // 1. Initialize repository
 // 2. Check changes
